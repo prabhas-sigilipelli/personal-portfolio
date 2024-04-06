@@ -1,1 +1,1 @@
-https://prabhas-sigilipelli.github.io/Personal-Portfolio/
+https://github.com/prabhas-sigilipelli/personal-portfolio
